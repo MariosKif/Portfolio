@@ -7,18 +7,36 @@
   <li>
    <h4>Project Tab</h4>
    <p>Here are listed some of the projects I have completed as functional Web Apps or just a Demo. The projects you will find will include the repository so you can visit it. In case there is no link there it mean that it's a live project for a client so i will not be able to provide it, but you can come in contact with me from the contact form and ask me if you have any question.</p>
+    <html>
+     <br>
+      <h4 align="center" ><a href="http://aggelucky.gr/"> Project #1 => Aggelucky - Restaurant / Web App </a> </h4>
+
+## Overview
+
+Aggelucky.gr is a web application designed to provide users with convenient access to information about our restaurant, including our menu, location, opening hours, and contact details. Whether you're craving delicious cuisine or planning your next visit, our web app has you covered.
+
+
+## Features
+
+- **Menu**: In the menu is displayed all the different type of foods and drinks that restaurant is providing.
+- **Location**: Find our restaurant easily with integrated maps and directions.
+- **Opening Hours**: Check our operating hours to plan your visit accordingly.
+- **Contact**: Reach out to us effortlessly through phone or social media that are linked.
+
+## Technologies Used
+
+- **Frontend**: HTML5, CSS3, JavaScript
+- **Deployment**: Github
+     
     
-     <a href="https://tenor.com/view/its-not-ready-yet-jake-gyllenhaal-saturday-night-live-unprepared-its-still-not-good-to-go-gif-25521783">  Project one</a>
-    
-    
-     <a href="https://tenor.com/view/its-not-ready-yet-jake-gyllenhaal-saturday-night-live-unprepared-its-still-not-good-to-go-gif-25521783"> Project two</a>
+    <h4 align="center" > <a href="https://tenor.com/view/its-not-ready-yet-jake-gyllenhaal-saturday-night-live-unprepared-its-still-not-good-to-go-gif-25521783"> Project #2</a> </h4>
     
    
-     <a href="https://tenor.com/view/its-not-ready-yet-jake-gyllenhaal-saturday-night-live-unprepared-its-still-not-good-to-go-gif-25521783"> Project three</a>
+    <h4 align="center" > <a href="https://tenor.com/view/its-not-ready-yet-jake-gyllenhaal-saturday-night-live-unprepared-its-still-not-good-to-go-gif-25521783"> Project #3</a> </h4>
     
     
-     <a href="https://tenor.com/view/its-not-ready-yet-jake-gyllenhaal-saturday-night-live-unprepared-its-still-not-good-to-go-gif-25521783"> Project four</a>
-    
+    <h4 align="center" > <a href="https://tenor.com/view/its-not-ready-yet-jake-gyllenhaal-saturday-night-live-unprepared-its-still-not-good-to-go-gif-25521783"> Project #4</a> </h4>
+    </html>
   </li>
   <li>
    <h4>Resume Tab</h4>
